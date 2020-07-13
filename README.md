@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Marcus and I'm a Web Engineer
+
+📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom)
+
 <!--
 **marcuslindblom/marcuslindblom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
