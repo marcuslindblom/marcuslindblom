@@ -1,8 +1,0 @@
----
----
-
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
-body {
-  background: linear-gradient(180deg,#0b0b0c 0%,#131318 100%);
-}
