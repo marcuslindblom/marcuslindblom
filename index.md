@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ### Hi there 👋
 
 My name is Marcus and I'm a Web Engineer
