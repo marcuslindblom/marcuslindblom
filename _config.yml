@@ -12,6 +12,10 @@ header_pages:
   - team.md
   - handbook.md
   
+collections:
+  team:
+    people: true
+  
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
