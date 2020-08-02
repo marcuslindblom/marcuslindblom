@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our core values
+title: Our Core Values
 permalink: /values
 ---
 
