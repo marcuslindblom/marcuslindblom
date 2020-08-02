@@ -5,7 +5,7 @@ title: Empowering people and exploring thoughtful ideas
 
 ### Hi there 👋
 
-[Our core values](/values)
+[Our Core Values](/marcuslindblom/values)
 
 My name is Marcus and I'm a Web Engineer
 
