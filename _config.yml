@@ -6,4 +6,9 @@ description: > # this means to ignore newlines until "twitter_username:"
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
+header_pages:
+  - what-we-do.md
+  - our-story.md
+  - team.md
+
 theme: minima
