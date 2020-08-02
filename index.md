@@ -5,6 +5,8 @@ title: Empowering people and exploring thoughtful ideas
 
 ### Hi there 👋
 
+[Our core values](/values)
+
 My name is Marcus and I'm a Web Engineer
 
 📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom)
