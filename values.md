@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Our core values
+title:
 permalink: /values/
 ---
 
-## ALIGNED AND DRIVEN BY A SHARED SET OF VALUES
+ALIGNED AND DRIVEN BY A SHARED SET OF VALUES
+
+## Our core values
