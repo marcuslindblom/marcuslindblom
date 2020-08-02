@@ -3,5 +3,7 @@ author: Marcus Lindblom
 email: m@marcuslindblom.com
 description: > # this means to ignore newlines until "twitter_username:"
   Encom goes public
+  
+show_excerpts: true # set to true to show excerpts on the homepage
 
 theme: minima
