@@ -10,6 +10,7 @@ header_pages:
   - what-we-do.md
   - our-story.md
   - team.md
+  - values.md
   
 plugins:
  - jekyll-feed
