@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Encom
+title: Empowering people and exploring thoughtful ideas
 ---
 
 ### Hi there 👋
