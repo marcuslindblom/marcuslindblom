@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
-permalink: /values
+title: Our core values
+permalink: /values/
 ---
 
-ALIGNED AND DRIVEN BY A SHARED SET OF VALUES
-
-## OUR CORE VALUES
+## ALIGNED AND DRIVEN BY A SHARED SET OF VALUES
