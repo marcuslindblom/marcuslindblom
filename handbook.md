@@ -11,3 +11,9 @@ permalink: /handbook/
 ## Getting Started
 
 ## Tools We Use
+
+### Github
+### Linear
+### Slack
+### Parabol
+### Mail, MS or Gmail?
