@@ -8,6 +8,8 @@ permalink: /handbook/
 ## Our Purpose
 ## Our Values
 ## Our Culture
+## Our Decision Process
+## Our Tools
 
 ## What We Stand For
 
