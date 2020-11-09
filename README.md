@@ -2,19 +2,10 @@
 
 My name is Marcus and I'm a Web Engineer
 
-📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom)
-
-<!--
-**marcuslindblom/marcuslindblom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a _secret_ project
+- 🌱 I’m currently learning advanced frontend architecture and cloud hosting using Kubernetes
+- 👯 I’m looking to collaborate on making the web a better place
+- 🤔 I’m looking for help with ... _maybe my secret project_
+- 💬 Ask me about life
+- 📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom), [github](https://github.com/marcuslindblom)
+- ⚡ Fun fact: I practice meditation and gratitude everyday
