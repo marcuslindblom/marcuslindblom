@@ -7,5 +7,5 @@ My name is Marcus and I'm a Web Engineer
 - 👯 I’m looking to collaborate on making the web a better place
 - 🤔 I’m looking for help with ... _maybe my secret project_
 - 💬 Ask me about life
-- 📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom), [github](https://github.com/marcuslindblom)
+- 📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom)
 - ⚡ Fun fact: I practice meditation and gratitude everyday
