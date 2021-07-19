@@ -10,7 +10,5 @@ My name is Marcus and I'm a Web Engineer
 - 📫 How to reach me: [twitter](https://twitter.com/marcus_lindblom)
 - ⚡ Fun fact: I practice meditation and gratitude everyday
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
+### 📣 Blog posts
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
