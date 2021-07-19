@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
-          feed_list: https://marcuslindblom.medium.com/feed
+          feed_list: "https://marcuslindblom.medium.com/feed"
