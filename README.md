@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcus and I'm a Web Engineer
+My name is Marcus and I'm a Design Engineer
 
 - 🔭 I’m currently working on a _secret_ project
 - 🌱 I’m currently learning advanced front-end architecture and cloud hosting using Kubernetes
